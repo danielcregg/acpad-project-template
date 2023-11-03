@@ -6,7 +6,7 @@
 
 ## Application Function
 
-Discuss, in detail, what the application does. Add a screenshot image of the application in use (See example of image added below). 
+Discuss, in detail, what the application does. Add a screenshot image of the application in use. 
 
 ## Running the Application
 
@@ -28,6 +28,7 @@ Confirm and demonstrate how you have met all minimum project requirments:
 * The project, including code and documentaion, will be fully contained in the provied Git repo.
 * The project **MUST** contain a working Ionic Angular app which matches the app you chose.
 * The Ionic app must include the use of the Angular Router, Connection to a Backend service such as Firebase or Supabase, Use of a Capacitor native plugin.
+* The app must not resemble in any way an app you have previously developed for another module or are currently developing for any project. 
 * The code MUST compile. 30% grade reduction if code does not compile when I issue the ionic serve command. 
 * The application code must be formatted in a consistent and standard way.
 * The code must contain comments. One comment per class, method and variable at minimum.
