@@ -1,4 +1,4 @@
-# Advanced Cross-Platform Application Development Project
+# ACPAD Final Project
 
 ## 📱 Project Overview
 This repository contains an Ionic Angular application developed as part of the Advanced Cross-Platform Application Development module. The application is built using the latest version of Ionic and incorporates various modern development practices and features.
