@@ -49,8 +49,12 @@ You must folow this subission process carefully. If you miss any part, especiall
 - Upload this zip file under the submission link on Moodle. You can find the submission link under the Final Project section on the Moodle page.
 - Submit the zip file to Moodle before the due date. The due date can be found by clicking on the submission link on Moodle. Late submissions will incur a 10% penalty per day. 
 - In the submission area on Moodle, where you upoad your project, you will see a text box in which you will be able to enter text. Put the URL link to your project GitHub repository and the URL link to your MS Streams screencast recording you created.
-  
-<input type="text" placeholder="Enter text here">
+  #### Sample Textbox Input
+  <pre>
+  <b>GitHub Link:</b> https://github.com/DanielCreggOrganization/ooc2-final-project-2021-annmurphy  
+  <b>Screencast Link:</b> https://atlantictu-my.sharepoint.com/:v:/g/personal/daniel_cregg_atu_ie/Ed9h1upB77VFuIm0ezGYj8MBlOaHCoiWUJkLUFqj0Z9OJQ?e=ua2JM1
+  </pre>
+
 
 ## ⚠️ Important Notes
 1. Only materials within this GitHub repository will be graded
