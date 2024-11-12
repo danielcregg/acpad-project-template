@@ -1,24 +1,24 @@
 # ACPAD Final Project
 
 ## 📱 Project Overview
-This repository contains an Ionic Angular application developed as part of the Advanced Cross-Platform Application Development module. The application is built using the latest version of Ionic and incorporates various modern development practices and features.
+For this project you are required to design and develop an Ionic Angular app using the latest Ionic version and the latest Angular Version. The project must consist of standalone components only. Your application must be selected from the Final Project App Choice List on the Moodle page. The application will be like the applications we developed in labs but with improved design and extended functionality.
 
-## ⚡ Key Features
+## ⚡ Minimum Project Requirments
+- This application must be developed using GitHub Codespaces.
+- You must use the Project GitHub Repository provided to you on the Moodle page. No other development set up will be acceptable. This repository can be found under the Final Project Assessment section on Moodle. You need to click on a link to create the repository. This repository will contain all documentation, application code and any resources (e.g., input and output files, images etc) used by your application. Please note, no materials outside of your GitHub repository are gradable. Using another GitHub repository or not using GitHub at all for this project will get a penalty of 60%. If you do not understand what is meant by this, then email me before you begin your project.
+- Project development must be tracked on GitHub via regular commits. Your GitHub repository must have at minimum two commits per week, if not I may contact you for a live project demonstration. The project will be capped at 40% if you fail to attend this meeting.    
+- The README file should contain clear instructions for compiling, deploying, and running the application. It should also briefly outline the nature of the project and detail the set of features it contains. All sections of the README template must be filled out and add more sections if you please. 
+
+## 🛠️ Minimum Feature Requirements
+- Standalone components
 - Angular Router navigation
 - Custom service implementation
-- Standalone component
-- Capacitor native plugin integration
 - Backend as a Service (BaaS) integration (Firebase/SupaBase)
+- AI integration
+- Capacitor native plugin integration
 - 5+ Ionic UI components
 
-## 🛠️ Technical Requirements
-
-### Development Environment
-- Project must be developed using GitHub Codespaces
-- All development must be tracked through regular commits (minimum two commits per week)
-- All code and resources must be contained within this repository
-
-### Code Standards
+### 📝 Coding Standards
 - Clean, compilable, and executable code
 - Consistent code formatting
 - Comprehensive documentation through comments
@@ -26,58 +26,31 @@ This repository contains an Ionic Angular application developed as part of the A
   - Method-level documentation
   - Variable-level documentation
 - Proper error handling
-- Adherence to Angular/Ionic best practices
-
-## 📝 Documentation Guidelines
-All project documentation must be maintained in this README file. The documentation should include:
-1. Project setup instructions
-2. Compilation guidelines
-3. Deployment procedures
-4. Feature documentation
-5. Any additional functionality
-
-## 🚀 Getting Started
-
-### Prerequisites
-[List prerequisites here]
-
-### Installation
-```bash
-# Installation commands will go here
-```
-
-### Running the Application
-```bash
-# Commands to run the application will go here
-```
-
-### Building for Production
-```bash
-# Build commands will go here
-```
+- Adherence to Angular/Ionic best practices and use of latest Angular tools (e.g. @if and @for)
 
 ## ⭐ Enhanced Features
 To achieve a higher grade, consider implementing:
-- Additional design features and functionality
-- App store deployment
+- Additional design features not seen in labs
+- Additional functionality not seen in labs
 - Progressive Web App (PWA) implementation
+- App store deployment
 
-## 📊 Project Submission Requirements
+## 📊 Project Submission Process
 
-### Screencast Demonstration
-- 5-minute screen recording using MS Stream
+### 1. Screencast Demonstration
+- Screencast Demo: [5-minute screen recording using MS Stream](https://www.microsoft365.com/launch/stream)
 - Code walkthrough
 - Feature demonstration
 - Highlight of additional functionality
 
-### Repository Guidelines
+### 2. Repository Guidelines
 - Regular commits (minimum two per week)
 - All code and resources included
 - Documentation in README.md
 - Accessible screencast link
 - Final submission as ZIP file
 
-### Important Links
+### 3. Important Links
 - GitHub Repository: [Your Repository URL]
 - Screencast Demo: [Your Screencast URL]
 
