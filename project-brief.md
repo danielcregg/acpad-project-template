@@ -42,7 +42,8 @@ You must folow this subission process carefully. If you miss any part, especiall
 - 5-minute screen recording using [MS Stream](https://www.microsoft365.com/launch/stream)
 - Give a brief code walkthrough highlghting places where you expended most of your effort.
 - Demonstrate your code running and its operation.  
-- Highlight any additional functionality you implemented. This is where you can pick up extra marks.  
+- Highlight any additional functionality you implemented. This is where you can pick up extra marks.
+- MAKE SURE YOUR SCREENCAST IS ACCESSABLE BY ME. CHECK STREAMS/OneDrive PERMISSIONS and make sure it can be seen by me.
 
 ### 2. Moodle Submission
 - Download a copy of your final Git repository from the GitHub website.
