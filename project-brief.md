@@ -7,19 +7,19 @@ For this project you are required to design and develop an Ionic Angular applica
 After you open this repository create an Ionic Angular project and select standalone as apposed to NgModules. Your application must be follow a topic selected from the `Project App Choice List` on the Moodle page. The application will be like the applications we developed in labs but with improved design and extended functionality.
 
 ## ⚡ Minimum Project Requirments
+- You must use the Project GitHub Repository provided to you on the Moodle page. No other development set up will be acceptable. This link to create your repository can be found under the `Project Assessment` section on Moodle. You need to click on the link to create your repository. This repository will contain all documentation, application code and any resources (e.g., input and output files, images etc) used by your application. Please note, no materials outside of your GitHub repository are gradable. Using another GitHub repository or not using GitHub at all for this project will incur a penalty of 60%. If you do not understand what is meant by this, then email me before you begin your project.
 - This application must be developed using GitHub Codespaces.
-- You must use the Project GitHub Repository provided to you on the Moodle page. No other development set up will be acceptable. This repository can be found under the Final Project Assessment section on Moodle. You need to click on a link to create the repository. This repository will contain all documentation, application code and any resources (e.g., input and output files, images etc) used by your application. Please note, no materials outside of your GitHub repository are gradable. Using another GitHub repository or not using GitHub at all for this project will get a penalty of 60%. If you do not understand what is meant by this, then email me before you begin your project.
 - Project development must be tracked on GitHub via regular commits. Your GitHub repository must have at minimum two commits per week, if not I may contact you for a live project demonstration. The project will be capped at 40% if you fail to attend this meeting.    
 - The README file should contain clear instructions for compiling, deploying, and running the application. It should also briefly outline the nature of the project and detail the set of features it contains. All sections of the README template must be filled out and add more sections if you please. 
 
 ## 🛠️ Minimum Feature Requirements
-- Standalone components
-- Angular Router navigation
+- Use of standalone components
+- Angular router navigation
 - Custom service implementation
-- Backend as a Service (BaaS) integration (Firebase/SupaBase)
+- Backend as a Service (BaaS) integration (e.g. Firebase, SupaBase etc.)
 - AI integration
 - Capacitor native plugin integration
-- 5+ Ionic UI components
+- 5 Ionic UI components
 
 ### 📝 Coding Standards
 - Clean, compilable, and executable code
