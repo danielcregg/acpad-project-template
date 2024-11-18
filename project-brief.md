@@ -14,15 +14,15 @@ After you open this repository create an Ionic Angular project and select standa
 
 ## 🛠️ Minimum Feature Requirements
 - Use of standalone components
-- Angular router navigation
+  5 Ionic UI components
 - Custom service implementation
 - Backend as a Service (BaaS) integration (e.g. Firebase, SupaBase etc.)
 - AI integration
 - Capacitor native plugin integration
-- 5 Ionic UI components
+- Angular router navigation
 
-### 📝 Coding Standards
-- Clean, compilable, and executable code
+## 📝 Coding Standards
+- Your code must compile
 - Consistent code formatting
 - Comprehensive documentation through comments
   - Class-level documentation
@@ -39,20 +39,21 @@ To achieve a higher grade, consider implementing:
 - App store deployment
 
 ## 📊 Project Submission Process
-You must folow this subission process carefully. If you miss any part, especially the screencast, you will be penalised.    
+You **must** folow this subission process carefully. If you miss any part, especially the screencast, you will be penalised.    
 
 ### 1. Screencast Demonstration
 - 5-minute screen recording using [MS Stream](https://www.microsoft365.com/launch/stream)
-- Give a brief code walkthrough highlghting places where you expended most of your effort.
-- Demonstrate your code running and its operation.  
-- Highlight any additional functionality you implemented. This is where you can pick up extra marks.
-- MAKE SURE YOUR SCREENCAST IS ACCESSABLE BY ME. CHECK STREAMS/OneDrive PERMISSIONS and make sure it can be seen by me.
+- Give a brief code walkthrough highlghting places where you expended most of your effort
+- Demonstrate your GUI running and its operation  
+- Highlight any additional functionality you implemented
+- **MAKE SURE YOUR SCREENCAST IS ACCESSABLE BY ME**. CHECK STREAMS/OneDrive PERMISSIONS and make sure it can be seen by me.
 
 ### 2. Moodle Submission
-- Download a copy of your final Git repository from the GitHub website.
+- [Download a copy of your final Git repository from the GitHub website.](https://youtube.com/shorts/4bDLccFjQyc?si=dWUDWoW4B_tnADty)
 - Upload this zip file under the submission link on Moodle. You can find the submission link under the Final Project section on the Moodle page.
+- In the submission area on Moodle, where you upoad your project, you will see a text box in which you will be able to enter text (See sample below). Put the URL link to your project GitHub repository and the URL link to your MS Streams screencast recording you created.
 - Submit the zip file to Moodle before the due date. The due date can be found by clicking on the submission link on Moodle. Late submissions will incur a 10% penalty per day. 
-- In the submission area on Moodle, where you upoad your project, you will see a text box in which you will be able to enter text. Put the URL link to your project GitHub repository and the URL link to your MS Streams screencast recording you created.
+
   #### Sample Textbox Input
   <pre>
   <b>GitHub Link:</b> https://github.com/DanielCreggOrganization/ooc2-final-project-2021-annmurphy  
@@ -61,11 +62,9 @@ You must folow this subission process carefully. If you miss any part, especiall
 
 
 ## ⚠️ Important Notes
-1. Only materials within this GitHub repository will be graded
-2. Using alternative repositories will incur a 60% penalty
+1. Only materials within this GitHub repository will be graded. (40% grade cap if missed)
 3. Insufficient commits may require a live demonstration (40% grade cap if missed)
 4. Late submissions incur a 10% penalty per day
-5. Documentation outside the README.md will not be graded
 
 ## Grading Rubric
 
