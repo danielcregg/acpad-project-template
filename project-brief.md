@@ -1,11 +1,10 @@
 # ACPAD Project Assessment
 
 ## 📱 Project Overview
-For this project you are required to design and develop an Ionic Angular app using the latest Ionic version and the latest Angular Version. 
+For this project you are required to design and develop an Ionic Angular application using the latest versions of each software. Your app will utilise the learning of labs and lectures throughout the semester. 
 
 ## 👣Getting Started
-
-The project must consist of standalone components only. Your application must be selected from the Project App Choice List on the Moodle page. The application will be like the applications we developed in labs but with improved design and extended functionality.
+After you open this repository create an Ionic Angular project and select standalone as apposed to NgModules. Your application must be follow a topic selected from the `Project App Choice List` on the Moodle page. The application will be like the applications we developed in labs but with improved design and extended functionality.
 
 ## ⚡ Minimum Project Requirments
 - This application must be developed using GitHub Codespaces.
