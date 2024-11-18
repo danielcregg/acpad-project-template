@@ -1,4 +1,4 @@
-# ACPAD Final Project
+# ACPAD Project Assessment
 
 ## 📱 Project Overview
 For this project you are required to design and develop an Ionic Angular app using the latest Ionic version and the latest Angular Version. The project must consist of standalone components only. Your application must be selected from the Final Project App Choice List on the Moodle page. The application will be like the applications we developed in labs but with improved design and extended functionality.
@@ -63,4 +63,11 @@ You must folow this subission process carefully. If you miss any part, especiall
 3. Insufficient commits may require a live demonstration (40% grade cap if missed)
 4. Late submissions incur a 10% penalty per day
 5. Documentation outside the README.md will not be graded
----
+
+## Grading Rubric
+
+| Area | Poor<br>(0-39) | Fair<br>(40-49) | Good<br>(50-59) | Very Good<br>(60-69) | Excellent<br>(70-100) |
+|------|----------------|-----------------|-----------------|---------------------|---------------------|
+| **UI/UX** | • Basic template-like<br>• Minimal effort<br>• Poor navigation<br>• Inconsistent design | • Basic effort shown<br>• Meets minimums<br>• Navigation works<br>• Shows competency | • Consistent design<br>• Intuitive navigation<br>• Beyond basic requirements | • Bespoke elements<br>• Consistent design<br>• Fluid navigation<br>• Above requirements | • Professional finish<br>• Innovative design<br>• Flawless UX<br>• Cohesive elements<br>• Exceeds requirements |
+| **Technical** | • Inconsistent code<br>• Unfinished sections<br>• Poor formatting<br>• No comments | • Basic competence<br>• Minimal comments<br>• No new elements<br>• Meets minimums | • Good structure<br>• Clear comments<br>• Technical mastery | • Professional code<br>• Clean architecture<br>• Consistent style | • Excellence shown<br>• Flawless plugins<br>• Advanced features<br>• Perfect structure |
+| **Docs** | • Basic README<br>• Few commits<br>• Poor submission | • Basic sections done<br>• Sporadic commits<br>• Meets minimums | • Good GitHub usage<br>• Detailed README<br>• Regular commits | • Bespoke content<br>• Clean repo<br>• Detailed docs | • Professional docs<br>• Rich media<br>• Perfect GitHub use<br>• Research depth |
