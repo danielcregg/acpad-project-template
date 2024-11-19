@@ -56,17 +56,16 @@ You **must** folow this subission process carefully. If you miss any part, espec
 
   #### Sample Textbox Input
   <pre>
-  <b>GitHub Link:</b> https://github.com/DanielCreggOrganization/ooc2-final-project-2021-annmurphy  
   <b>Screencast Link:</b> https://atlantictu-my.sharepoint.com/:v:/g/personal/daniel_cregg_atu_ie/Ed9h1upB77VFuIm0ezGYj8MBlOaHCoiWUJkLUFqj0Z9OJQ?e=ua2JM1
+  <b>GitHub Link:</b> https://github.com/DanielCreggOrganization/ooc2-final-project-2021-annmurphy  
   </pre>
-
 
 ## ⚠️ Important Notes
 1. Only materials within this GitHub repository will be graded. (40% grade cap if missed)
 3. Insufficient commits may require a live demonstration (40% grade cap if missed)
 4. Late submissions incur a 10% penalty per day
 
-## Grading Rubric
+## ✅ Grading Rubric
 
 | Area | Poor<br>(0-39) | Fair<br>(40-49) | Good<br>(50-59) | Very Good<br>(60-69) | Excellent<br>(70-100) |
 |------|----------------|-----------------|-----------------|---------------------|---------------------|
