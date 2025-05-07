@@ -14,7 +14,7 @@ After you open this repository create an Ionic Angular project and select standa
 
 ## 🛠️ Minimum Feature Requirements
 - Use of standalone components
-  5 Ionic UI components
+- 5 Ionic UI components
 - Custom service implementation
 - Backend as a Service (BaaS) integration (e.g. Firebase, SupaBase etc.)
 - AI integration
